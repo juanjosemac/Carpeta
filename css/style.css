@@ -1,0 +1,61 @@
+
+@font-face {
+
+    font-family: Pacifico;
+    
+    src: url(../fuentes/Pacifico-Regular.ttf);
+    
+    }
+
+@font-face {
+    font-family: Roboto_Slab;
+    src: url(../fuentes/RobotoSlab-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:Aleo ;
+    src: url(../fuentes/Aleo-Regular.ttf);
+}
+#primero{
+    font-size: 35px;
+}
+.primero{
+    font-family: 'Dancing Script', cursive;
+    margin-bottom:25px;
+}
+
+a[title*="Clarín"] {
+    color: purple;
+  }
+
+.segundo{
+
+    font-family:'Roboto_Slab', Serif;
+    margin-top:10px;
+   
+}
+.verde{
+    color:lightgreen;
+}
+
+.rojo{
+    color:red;
+    background-color: blue;
+}
+
+.manuscrito{
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.boton{
+    background-color: lightseagreen;
+    border:1px solid green;
+    padding:8px;
+}
+
+p{
+    background-color:aliceblue;
+}
+
+*{
+    margin:0;
+}
